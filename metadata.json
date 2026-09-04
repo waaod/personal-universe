@@ -1,0 +1,8 @@
+{
+  "name": "Waad Shrief — Personal Universe",
+  "description": "A universe of research, technology, art, and people. The personal digital universe of Waad Shrief.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
